@@ -3,9 +3,9 @@
 </div>
 Full-Stack software engineer with experience in developing web applications. I have worked on various projects for clients as well as created personal projects, ranging from full e-commerce platforms to RESTful APIs. I am proficient in HTML, CSS, JavaScript, React, Python, Django, DRF (Django REST Framework), SQL and other technologies. I am passionate about creating user-friendly and scalable solutions that meet the needs and expectations of my clients. I am always eager to learn new skills and explore new challenges in the field of software engineering.
 
-## **💻 Tools and Technologies**
+## **🚀 Tools and Technologies**
 
-`HTML`, `CSS`, `JavaScript`, `Python`, `Java` (Core Language), `React`, `Django Web Framework`, `Django REST Framework`, `Pytest` `SQL`
+### `HTML5`, `CSS3`, `JavaScript`, `Python`, `Java (Core Language)`, `React`, `Django Web Framework`, `Django REST Framework`, `RESTful APIs`, `Pytest`, `Databases`, `SQL`, `PostgreSQL`, `Docker`
 
 <!---
 - 👋 Hi, I’m @kumailalidev
