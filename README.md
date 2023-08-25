@@ -6,13 +6,13 @@
 
 <table>
     <tbody>
-        <tr>
-        <td><img src="assets/images/University-of-Karachi-Logo-300px.png" width="48px"/></td>
-        <td>
-            <strong>University of Karachi, Pakistan</strong></br>
-            Bachelor of Science (BS), Electronics</br>
-            <em>January 2019 - January 2023</em>
-        </td>
+        <tr width="600px">
+            <td><img src="assets/images/University-of-Karachi-Logo-300px.png" width="48px"/></td>
+            <td>
+                <strong>University of Karachi, Pakistan</strong></br>
+                Bachelor of Science (BS), Electronics</br>
+                <em>January 2019 - January 2023</em>
+            </td>
         </tr>
     </tbody>
 <table>
