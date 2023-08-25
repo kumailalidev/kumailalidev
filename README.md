@@ -45,13 +45,13 @@
 <table>
     <thead>
         <tr>
-            <th width="64px"></th>
+            <th width="100px"></th>
             <th></th>
         <tr>
     <thead>
     <tbody>
         <tr>
-            <td><a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="Meta Front-End Developer" width="64px"/></a></td>
+            <td><a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="Meta Front-End Developer"/></a></td>
             <td>
                 <strong>Meta Front-End Developer Certificate</strong>
             </td>
