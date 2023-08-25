@@ -4,6 +4,12 @@
 
 <h2><strong>🎓 Education</strong></h2>
 <table>
+    <thead>
+        <tr>
+            <th></th>
+            <th width="600"></th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
             <td><img src="assets/images/University-of-Karachi-Logo-300px.png" width="58px"/></td>
