@@ -16,7 +16,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
 | <a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer Certificate"/></a> | ![?](assets/images/meta-back-end-developer-certificate.png) | ![?](assets/images/meta-full-stack-engineer-certificate.png) |
 
-<table width="100%">
+<table width="600px">
     <thead>
         <tr>
             <th>Meta Front-End Developer</th>
