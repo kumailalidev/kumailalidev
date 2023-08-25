@@ -19,14 +19,14 @@
 <table>
     <thead>
         <tr>
-            <th>Meta Front-End Developer</th>
-            <th>Meta Back-End Developer</th>
-            <th>Meta Full-Stack Software Engineer</th>
+            <th width="500px"><p align="center">Meta Front-End Developer</p></th>
+            <th width="500px">Meta Back-End Developer</th>
+            <th width="500px">Meta Full-Stack Software Engineer</th>
         </tr>
     </thead>
     <tbody>
-        <tr width="600px">
-            <td><a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer Certificate"/></a></td>
+        <tr>
+            <td align="center"><a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer Certificate"/></a></td>
             <td><a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer Certificate"/></a></td>
             <td><a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer Certificate"/></a></td>
         </tr>
