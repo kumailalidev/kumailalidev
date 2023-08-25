@@ -6,7 +6,7 @@
     <h1><strong>👋 Hello, I'm Kumail Ali Shaikh</strong></h1>
 </div> -->
 
-Full-Stack software engineer with experience in developing web applications. I have worked on various projects for clients as well as created personal projects, ranging from full e-commerce platforms to RESTful APIs. I am proficient in HTML, CSS, JavaScript, React, Python, Django, DRF (Django REST Framework), SQL and other technologies. I am very enthusiastic about creating user-friendly and scalable solutions that meet the needs and expectations of my clients. I am always eager to learn new skills and explore new challenges in the field of software engineering.
+<p align="justify">Full-Stack software engineer with experience in developing web applications. I have worked on various projects for clients as well as created personal projects, ranging from full e-commerce platforms to RESTful APIs. I am proficient in HTML, CSS, JavaScript, React, Python, Django, DRF (Django REST Framework), SQL and other technologies. I am very enthusiastic about creating user-friendly and scalable solutions that meet the needs and expectations of my clients. I am always eager to learn new skills and explore new challenges in the field of software engineering.</p>
 
 ## **🚀 Tools and Technologies**
 
@@ -14,17 +14,9 @@ Full-Stack software engineer with experience in developing web applications. I h
 
 ## **🔖 Badges** _(Credly)_
 
-<div style="width: 100%">
-  <img src="assets/images/meta-front-end-developer-certificate.png" width="164" />
-  <img src="assets/images/meta-front-end-developer-certificate.png" width="164" />
-  <img src="assets/images/meta-front-end-developer-certificate.png" width="164" />
-</div>
-
-<!--
 | Meta Front-End Developer                                     | Meta Back-End Developer                                     | Meta Full-Stack Software Engineer                            |
 | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ |
 | ![?](assets/images/meta-front-end-developer-certificate.png) | ![?](assets/images/meta-back-end-developer-certificate.png) | ![?](assets/images/meta-full-stack-engineer-certificate.png) |
- -->
 
 ## **🎓 Certification**
 
