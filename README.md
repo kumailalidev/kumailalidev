@@ -45,10 +45,16 @@
 <table>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td width=54px><a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="Meta Front-End Developer" width="52px" align="center"/></a></td>
+            <td>
+                <strong>Meta Front-End Developer Certificate</strong>
+            </td>
+        <tr>
+        <tr>
+            <td width=54px></td>
+            <td>
+                <p>Lorem ipsum lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum</p>
+            </td>
         <tr>
     </tbody>
 </table>
