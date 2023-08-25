@@ -7,11 +7,19 @@ Full-Stack software engineer with experience in developing web applications. I h
 
 **`HTML5`, `CSS3`, `JavaScript`, `Python`, `Java (Core Language)`, `React`, `Django Web Framework`, `Django REST Framework`, `RESTful APIs`, `Pytest`, `Databases`, `SQL`, `PostgreSQL`, `Docker`**
 
-## **🔖 Badges**
+## **🔖 Badges** _(Credly)_
 
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <img src="assets/images/meta-front-end-developer-certificate.png" width="164" />
+  <img src="assets/images/meta-front-end-developer-certificate.png" width="164" />
+  <img src="assets/images/meta-front-end-developer-certificate.png" width="164" />
+</div>
+
+<!--
 | Meta Front-End Developer                                     | Meta Back-End Developer                                     | Meta Full-Stack Software Engineer                            |
 | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ |
 | ![?](assets/images/meta-front-end-developer-certificate.png) | ![?](assets/images/meta-back-end-developer-certificate.png) | ![?](assets/images/meta-full-stack-engineer-certificate.png) |
+ -->
 
 ## **🎓 Certification**
 
