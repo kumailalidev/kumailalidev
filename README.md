@@ -1,6 +1,4 @@
-<div style="width: 100%;">
-  <img src="assets/svg/hello.svg" style="width: 100%;" alt="Click to see the source">
-</div>
+<img src="assets/svg/hello.svg" style="width: 100%;" alt="Click to see the source">
 
 <!-- <div style="text-align: center;">
     <h1><strong>👋 Hello, I'm Kumail Ali Shaikh</strong></h1>
@@ -14,13 +12,26 @@
 
 ## **🔖 Badges** _(Credly)_
 
-<div style="width: 100%;">
-    
 | Meta Front-End Developer                                                                                                                                                                                   | Meta Back-End Developer                                     | Meta Full-Stack Software Engineer                            |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
 | <a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer Certificate"/></a> | ![?](assets/images/meta-back-end-developer-certificate.png) | ![?](assets/images/meta-full-stack-engineer-certificate.png) |
 
-</div>
+<table>
+    <thead>
+        <tr>
+            <th>Meta Front-End Developer</th>
+            <th>Meta Back-End Developer</th>
+            <th>Meta Full-Stack Software Engineer</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer Certificate"/></a></td>
+            <td><a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer Certificate"/></a></td>
+            <td><a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer Certificate"/></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ## **🎓 Certification**
 
