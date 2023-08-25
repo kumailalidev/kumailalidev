@@ -19,16 +19,16 @@
 <table>
     <thead>
         <tr>
-            <th width="500px"><p align="center">Meta Front-End Developer</p></th>
+            <th width="500px">Meta Front-End Developer</th>
             <th width="500px">Meta Back-End Developer</th>
             <th width="500px">Meta Full-Stack Software Engineer</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center"><a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer Certificate"/></a></td>
-            <td><a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer Certificate"/></a></td>
-            <td><a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer Certificate"/></a></td>
+            <td align="center"><a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer" width="164px"/></a></td>
+            <td align="center"><a href="https://www.credly.com/badges/1f49414b-6515-4fc0-bbd2-b5d02df1f883/public_url"><img src="assets/images/meta-back-end-developer-certificate.png" alt="Meta Back-End Developer" width="164px"/></a></td>
+            <td align="center"><a href="https://www.credly.com/badges/fe8da2c2-6634-473f-b4cc-bd81293f7384/public_url"><img src="assets/images/meta-full-stack-engineer-certificate.png" alt="Meta Full-Stack Software Engineer" width="164px"/></a></td>
         </tr>
     </tbody>
 </table>
