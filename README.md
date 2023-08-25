@@ -14,17 +14,9 @@
 
 ## **🔖 Badges** _(Credly)_
 
-<!-- | Meta Front-End Developer                                     | Meta Back-End Developer                                     | Meta Full-Stack Software Engineer                            |
-| ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ |
-| ![?](assets/images/meta-front-end-developer-certificate.png) | ![?](assets/images/meta-back-end-developer-certificate.png) | ![?](assets/images/meta-full-stack-engineer-certificate.png) | -->
-
-<div>
-  <img src="assets/images/meta-front-end-developer-certificate.png" width="164" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/images/meta-front-end-developer-certificate.png" width="164" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/images/meta-front-end-developer-certificate.png" width="164" />
-</div>
+| Meta Front-End Developer                                                                                                                                                                                   | Meta Back-End Developer                                     | Meta Full-Stack Software Engineer                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
+| <a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer Certificate"/></a> | ![?](assets/images/meta-back-end-developer-certificate.png) | ![?](assets/images/meta-full-stack-engineer-certificate.png) |
 
 ## **🎓 Certification**
 
