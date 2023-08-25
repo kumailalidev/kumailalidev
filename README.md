@@ -7,7 +7,7 @@
     <thead>
     </thead>
     <tbody>
-        <tr width="100%">
+        <tr>
             <td><img src="assets/images/University-of-Karachi-Logo-300px.png" width="58px"/></td>
             <td>
                 <strong>Bachelor of Science (BS), Electronics</strong><br>
@@ -43,10 +43,16 @@
 ## **📜 Certifications**
 
 <table>
+    <thead>
+        <tr>
+            <th width="64px"></th>
+            <th></th>
+        <tr>
+    <thead>
     <tbody>
         <tr>
-            <td width="64px"><a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="Meta Front-End Developer" width="64px" align="center"/></a></td>
-            <td width="600px">
+            <td><a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="Meta Front-End Developer" width="64px"/></a></td>
+            <td>
                 <strong>Meta Front-End Developer Certificate</strong>
             </td>
         <tr>
