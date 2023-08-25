@@ -9,7 +9,9 @@ Full-Stack software engineer with experience in developing web applications. I h
 
 ## **🔖 Badges**
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fe8da2c2-6634-473f-b4cc-bd81293f7384" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+| Meta Front-End Developer                                     | Meta Back-End Developer                                     | Meta Full-Stack Software Engineer                            |
+| ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ |
+| ![?](assets/images/meta-front-end-developer-certificate.png) | ![?](assets/images/meta-back-end-developer-certificate.png) | ![?](assets/images/meta-full-stack-engineer-certificate.png) |
 
 ## **🎓 Certification**
 
