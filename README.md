@@ -1,6 +1,27 @@
-<div style="text-align: center;">
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          width: 100%;
+          height: 300px;
+          background-color: black;
+          color: white;
+        }
+      </style>
+      <div class="container">
+        <h1>Hi there, my name is Kumail Ali Shaikh 👋</h1>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
+
+<!-- <div style="text-align: center;">
     <h1><strong>👋 Hello, I'm Kumail Ali Shaikh</strong></h1>
-</div>
+</div> -->
+
 Full-Stack software engineer with experience in developing web applications. I have worked on various projects for clients as well as created personal projects, ranging from full e-commerce platforms to RESTful APIs. I am proficient in HTML, CSS, JavaScript, React, Python, Django, DRF (Django REST Framework), SQL and other technologies. I am very enthusiastic about creating user-friendly and scalable solutions that meet the needs and expectations of my clients. I am always eager to learn new skills and explore new challenges in the field of software engineering.
 
 ## **🚀 Tools and Technologies**
