@@ -46,7 +46,7 @@
     <tbody>
         <tr>
             <td width="64px"><a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="Meta Front-End Developer" width="64px" align="center"/></a></td>
-            <td>
+            <td width="600px">
                 <strong>Meta Front-End Developer Certificate</strong>
             </td>
         <tr>
