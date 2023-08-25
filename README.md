@@ -1,20 +1,12 @@
 <img src="assets/svg/hello.svg" style="width: 100%;" alt="Click to see the source">
 
-<!-- <div style="text-align: center;">
-    <h1><strong>👋 Hello, I'm Kumail Ali Shaikh</strong></h1>
-</div> -->
-
 <p align="justify">Full-Stack software engineer with experience in developing web applications. I have worked on various projects for clients as well as created personal projects, ranging from full e-commerce platforms to RESTful APIs. I am proficient in HTML, CSS, JavaScript, React, Python, Django, DRF (Django REST Framework), SQL and other technologies. I am very enthusiastic about creating user-friendly and scalable solutions that meet the needs and expectations of my clients. I am always eager to learn new skills and explore new challenges in the field of software engineering.</p>
 
-## **🚀 Tools and Technologies**
+<h2><strong>🚀 Tools and Technologies</strong></h2>
 
 **`HTML5`, `CSS3`, `JavaScript`, `Python`, `Java (Core Language)`, `React`, `Django Web Framework`, `Django REST Framework`, `RESTful APIs`, `Pytest`, `Databases`, `SQL`, `PostgreSQL`, `Docker`**
 
-## **🔖 Badges** _(Credly)_
-
-| Meta Front-End Developer                                                                                                                                                                                   | Meta Back-End Developer                                     | Meta Full-Stack Software Engineer                            |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
-| <a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer Certificate"/></a> | ![?](assets/images/meta-back-end-developer-certificate.png) | ![?](assets/images/meta-full-stack-engineer-certificate.png) |
+<h2><strong>🏅 Badges </strong></h2>
 
 <table>
     <thead>
@@ -33,7 +25,7 @@
     </tbody>
 </table>
 
-## **🎓 Certification**
+## **🎓 Certifications**
 
 <!---
 - 👋 Hi, I’m @kumailalidev
