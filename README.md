@@ -1,3 +1,5 @@
+<p align="right"><code>⬇️ Download Resume</code></p>
+
 <img src="assets/svg/hello.svg" style="width: 100%;" alt="Click to see the source">
 
 <p align="justify">Full-Stack software engineer with experience in developing web applications. I have worked on various projects for clients as well as created personal projects, ranging from full e-commerce platforms to RESTful APIs. I am proficient in <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React JS</strong>, <strong>Python</strong>, <strong>Django</strong>, <strong>DRF (Django REST Framework)</strong>, <strong>SQL</strong> and other technologies. I am very enthusiastic about creating user-friendly and scalable solutions that meet the needs and expectations of my clients. I am always eager to learn new skills and explore new challenges in the field of software engineering.</p>
@@ -43,23 +45,23 @@
 ## **📜 Certifications**
 
 <table>
-    <thead>
+    <!-- <thead>
         <tr>
             <th width="100px"></th>
-            <th></th>
+            <th width="600px"></th>
         <tr>
-    <thead>
+    <thead> -->
     <tbody>
         <tr>
-            <td><a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="Meta Front-End Developer"/></a></td>
-            <td>
+            <td align="center"><a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="" width="100px"/></a></td>
+            <td width="90%">
                 <strong>Meta Front-End Developer Certificate</strong>
             </td>
         <tr>
         <tr>
             <td></td>
             <td>
-                <p>Lorem ipsum lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum</p>
+                <p>Lorem </p>
             </td>
         <tr>
     </tbody>
