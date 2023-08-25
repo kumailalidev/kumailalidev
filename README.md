@@ -1,22 +1,6 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          display: flex;
-          width: 100%;
-          height: 300px;
-          background-color: black;
-          color: white;
-        }
-      </style>
-      <div class="container">
-        <h1>Hi there, my name is Kumail Ali Shaikh 👋</h1>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
+<div style="width: 100%;">
+  <img src="assets/svg/hello.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 <!-- <div style="text-align: center;">
     <h1><strong>👋 Hello, I'm Kumail Ali Shaikh</strong></h1>
@@ -30,7 +14,7 @@ Full-Stack software engineer with experience in developing web applications. I h
 
 ## **🔖 Badges** _(Credly)_
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
+<div style="width: 100%">
   <img src="assets/images/meta-front-end-developer-certificate.png" width="164" />
   <img src="assets/images/meta-front-end-developer-certificate.png" width="164" />
   <img src="assets/images/meta-front-end-developer-certificate.png" width="164" />
