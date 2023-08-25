@@ -1,4 +1,6 @@
-<p align="right"><code>⬇️ Download Resume</code></p>
+<a href="">
+    <h3 align="right"><code>⬇️ Download Resume</code></h3>
+</a>
 
 <img src="assets/svg/hello.svg" style="width: 100%;" alt="Click to see the source">
 
