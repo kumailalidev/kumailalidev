@@ -2,7 +2,22 @@
 
 <p align="justify">Full-Stack software engineer with experience in developing web applications. I have worked on various projects for clients as well as created personal projects, ranging from full e-commerce platforms to RESTful APIs. I am proficient in HTML, CSS, JavaScript, React, Python, Django, DRF (Django REST Framework), SQL and other technologies. I am very enthusiastic about creating user-friendly and scalable solutions that meet the needs and expectations of my clients. I am always eager to learn new skills and explore new challenges in the field of software engineering.</p>
 
-<h2><strong>🚀 Tools and Technologies</strong></h2>
+<h2><strong>🎓 Education</strong></h2>
+
+<table>
+    <tbody>
+        <tr>
+        <td><img src="assets/images/University-of-Karachi-Logo-300px.png" width="48px"/></td>
+        <td>
+            <strong>University of Karachi, Pakistan</strong></br>
+            Bachelor of Science (BS), Electronics</br>
+            <em>January 2019 - January 2023</em>
+        </td>
+        </tr>
+    </tbody>
+<table>
+
+<h2><strong>🧑‍💻 Tools and Technologies</strong></h2>
 
 **`HTML5`, `CSS3`, `JavaScript`, `Python`, `Java (Core Language)`, `React`, `Django Web Framework`, `Django REST Framework`, `RESTful APIs`, `Pytest`, `Databases`, `SQL`, `PostgreSQL`, `Docker`**
 
@@ -25,7 +40,18 @@
     </tbody>
 </table>
 
-## **🎓 Certifications**
+## **📜 Certifications**
+
+<table>
+    <tbody>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        <tr>
+    </tbody>
+</table>
 
 <!---
 - 👋 Hi, I’m @kumailalidev
