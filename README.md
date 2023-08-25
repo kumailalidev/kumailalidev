@@ -5,13 +5,9 @@
 <h2><strong>🎓 Education</strong></h2>
 <table>
     <thead>
-        <tr>
-            <th></th>
-            <th width="600"></th>
-        </tr>
     </thead>
     <tbody>
-        <tr>
+        <tr width="100%">
             <td><img src="assets/images/University-of-Karachi-Logo-300px.png" width="58px"/></td>
             <td>
                 <strong>Bachelor of Science (BS), Electronics</strong><br>
