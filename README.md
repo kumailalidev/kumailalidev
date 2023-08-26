@@ -10,11 +10,24 @@
     </thead>
     <tbody>
         <tr>
-            <td><img src="assets/images/University-of-Karachi-Logo-300px.png" width="58px"/></td>
-            <td>
-                <strong>Bachelor of Science (BS), Electronics</strong><br>
-                <strong>University of Karachi, Pakistan</strong></br>
-                <em>January 2019 - January 2023</em>
+            <td align="center" valign="top"><img src="assets/images/University-of-Karachi-Logo-300px.png" width="58px"/></td>
+            <td width="90%">
+                <p>
+                    <strong>Bachelor of Science (BS), Electronics</strong><br>
+                    <strong>University of Karachi, Pakistan</strong></br>
+                    <em>January 2019 - January 2023</em></br></br>
+                    <strong>Relevant Coursework:</strong></br>
+                    <ul>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                    </ul>
+                </p>
             </td>
         </tr>
     </tbody>
