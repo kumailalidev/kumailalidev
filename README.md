@@ -16,42 +16,24 @@
         <tr>
             <td align="center" valign="top"><img src="assets/images/University-of-Karachi-Logo-300px.png" width="58px"/></td>
             <td>
-                <p>
+                <p align="justify">
                     <strong>Bachelor of Science (BS), Electronics</strong><br>
                     <strong>University of Karachi, Pakistan</strong></br>
-                    <em>January 2019 - January 2023</em></br></br>
-                    <strong>Relevant Coursework:</strong></br>
-                    <!-- <ul>
-                        <li>Introduction to Computer and Programming Languages</li>
-                        <li>Data Structures and Algorithms</li>
-                        <li>Computational Methods</li>
-                        <li>Signals and Systems</li>
-                        <li>Digital Logic and Design (Digital Electronics)</li>
-                        <li>Microprocessors</li>
-                        <li>Microprocessor and Microcontroller Interfacing</li>
-                        <li>Data Communication and Networks</li>
-                        <li>Digital Signal Processing</li>
-                    </ul> -->
-                    <table>
-                        <tbody>
-                            <tr>
-                                <td><li>Introduction to Computer and Programming Languages</li></td>
-                                <td><li>Data Structures and Algorithms</li></td>
-                            </tr>
-                            <tr>
-                                <td><li>Computational Methods</li></td>
-                                <td><li>Signals and Systems</li></td>
-                            </tr>
-                            <tr>
-                                <td><li>Digital Logic and Design (Digital Electronics)</li></td>
-                                <td><li>Microprocessors</li></td>
-                            </tr>
-                            <tr>
-                                <td><li>Data Communication and Networks</li></td>
-                                <td><li>Digital Signal Processing</li></td>
-                            </tr>
-                        </tbody>
-                    </table>
+                    <em>January 2019 - January 2023</em>
+                    <Details>
+                        <summary><strong>Relevant Coursework</strong></br></summary>
+                        <ol>
+                            <li>Introduction to Computer and Programming Languages</li>
+                            <li>Data Structures and Algorithms</li>
+                            <li>Computational Methods</li>
+                            <li>Signals and Systems</li>
+                            <li>Digital Logic and Design (Digital Electronics)</li>
+                            <li>Microprocessors</li>
+                            <li>Microprocessor and Microcontroller Interfacing</li>
+                            <li>Data Communication and Networks</li>
+                            <li>Digital Signal Processing</li>
+                        </ol>
+                    </Details>
                 </p>
             </td>
         </tr>
