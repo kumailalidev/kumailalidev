@@ -47,19 +47,18 @@
 <table>
     <thead>
         <tr>
-            <th width="58px">Issuing Organization</th>
+            <th>Issuing Organization</th>
             <th>Certificate Description</th>
-            <th>Completion Date</th>
         <tr>
     <thead>
     <tbody>
         <tr>
             <td align="center" valign="top">
-                <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt=""/></a>
+                <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="" width="48px"/></a>
             </td>
             <td>
                 <a href="https://www.coursera.org/account/accomplishments/professional-cert/V88HPGTYPM7P"><strong>Meta Front-End Developer Certificate</strong> ↗️</a>
-                <p>Successfully completed the online, 9-course program Meta Front-End Developer Specialization Certificate.</p>
+                <p>Successfully completed the online, 9-course program Meta Front-End Developer Specialization Certificate.<br/><em>January 2023 &ndash; May 2023</em></p>
                 <p>
                     <strong>Skills gained:</strong><br/>
                     <code><strong>HTML</strong></code> <code><strong>CSS (Cascading Style Sheets)</strong></code> <code><strong>UI/UX Design</strong></code> <code><strong>JavaScript</strong></code> <code><strong>React</strong></code>
@@ -82,15 +81,14 @@
                     <p align="center"><img src="assets/images/Coursera-Meta-Front-End-Developer.png" width="400px"/><p>
                 </details>
             </td>
-            <td align="center" valign="top"><em>May 2023</em></td>
         <tr>
         <tr>
             <td align="center" valign="top">
-                <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt=""/></a>
+                <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="" width="48px"/></a>
             </td>
             <td>
                 <a href="https://www.coursera.org/account/accomplishments/professional-cert/CMRPL76GR7VM"><strong>Meta Back-End Developer Certificate</strong> ↗️</a>
-                <p>Successfully completed the online, 9-course program Meta Back-End Developer Specialization Certificate.</p>
+                <p>Successfully completed the online, 9-course program Meta Back-End Developer Specialization Certificate.<br/><em>January 2023 &ndash; June 2023</em></p>
                  <p>
                     <strong>Skills gained:</strong><br/>
                     <code><strong>HTML</strong></code> <code><strong>CSS (Cascading Style Sheets)</strong></code> <code><strong>UI/UX Design</strong></code> <code><strong>JavaScript</strong></code> <code><strong>React</strong></code>
@@ -113,7 +111,6 @@
                     <p align="center"><img src="assets/images/Coursera-Meta-Back-End-Developer.png" width="400px"/><p>
                 </details>
             </td>
-            <td align="center" valign="top"><em>June 2023</em></td>
     </tbody>
 </table>
 
