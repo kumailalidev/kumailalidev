@@ -19,9 +19,17 @@
           display: flex;
           justify-content: center;
           align-items: center;
-          color: white;
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
           border-radius: 18px;
+        }
+        h1 .name {
+          background: #007CF0;
+          background: -webkit-linear-gradient(to right, #007CF0 33%, #00DFD8 100%);
+          background: -moz-linear-gradient(to right, #007CF0 33%, #00DFD8 100%);
+          background: linear-gradient(to right, #007CF0 33%, #00DFD8 100%);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+
         }
         .hi {
           animation: hi 1.5s linear -0.5s infinite;
@@ -35,7 +43,7 @@
         }
       </style>
       <div class="container">
-        <h1>Hello, I'm Kumail Ali Shaikh <div class="hi">👋</div></h1>
+        <h1>Hello, I'm <span class="name">Kumail Ali Shaikh</span> <div class="hi">👋</div></h1>
       </div>
     </div>
   </foreignObject>
