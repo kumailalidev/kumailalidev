@@ -22,7 +22,7 @@
 
 <h2><strong>🧑‍💻 Tools and Technologies</strong></h2>
 
-**`HTML5`, `CSS3`, `JavaScript`, `Python`, `Java (Core Language)`, `React`, `Django Web Framework`, `Django REST Framework`, `RESTful APIs`, `Pytest`, `Databases`, `SQL`, `PostgreSQL`, `Docker`**
+**`HTML5` `CSS3` `JavaScript` `Python` `Java (Core Language)` `React` `Django Web Framework` `Django REST Framework` `RESTful APIs` `Pytest` `Databases` `SQL` `PostgreSQL` `Docker`**
 
 <h2><strong>🏅 Badges</strong></h2>
 <table>
@@ -42,26 +42,25 @@
     </tbody>
 </table>
 
-## **📜 Certifications**
-
+<h2><strong>📜 Certifications</strong></h2>
 <table>
     <thead>
         <tr>
-            <th>Issuing Organization</th>
+            <th>Organization</th>
             <th>Certificate Description</th>
         <tr>
     <thead>
     <tbody>
         <tr>
             <td align="center" valign="top">
-                <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="" width="48px"/></a>
+                <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="" width="60px"/></a>
             </td>
             <td>
                 <a href="https://www.coursera.org/account/accomplishments/professional-cert/V88HPGTYPM7P"><strong>Meta Front-End Developer Certificate</strong> ↗️</a>
                 <p>Successfully completed the online, 9-course program Meta Front-End Developer Specialization Certificate.<br/><em>January 2023 &ndash; May 2023</em></p>
                 <p>
                     <strong>Skills gained:</strong><br/>
-                    <code><strong>HTML</strong></code> <code><strong>CSS (Cascading Style Sheets)</strong></code> <code><strong>UI/UX Design</strong></code> <code><strong>JavaScript</strong></code> <code><strong>React</strong></code>
+                    <code><strong>Front-End Web Development</strong></code> <code><strong>HTML</strong></code> <code><strong>CSS (Cascading Style Sheets)</strong></code> <code><strong>UI/UX Design</strong></code> <code><strong>JavaScript</strong></code> <code><strong>React (Web Framework)</strong></code>
                 </p>
                 <details>
                     <summary><strong>Details</strong></summary>
@@ -84,27 +83,27 @@
         <tr>
         <tr>
             <td align="center" valign="top">
-                <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="" width="48px"/></a>
+                <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="" width="60px"/></a>
             </td>
             <td>
                 <a href="https://www.coursera.org/account/accomplishments/professional-cert/CMRPL76GR7VM"><strong>Meta Back-End Developer Certificate</strong> ↗️</a>
                 <p>Successfully completed the online, 9-course program Meta Back-End Developer Specialization Certificate.<br/><em>January 2023 &ndash; June 2023</em></p>
                  <p>
                     <strong>Skills gained:</strong><br/>
-                    <code><strong>HTML</strong></code> <code><strong>CSS (Cascading Style Sheets)</strong></code> <code><strong>UI/UX Design</strong></code> <code><strong>JavaScript</strong></code> <code><strong>React</strong></code>
+                    <code><strong>Back-End Web Development</strong></code> <code><strong>Python Programming</strong></code> <code><strong>Database (DBMS)</strong></code> <code><strong>MySQL</strong></code> <code><strong>Django (Web Framework)</strong></code><code><strong>Django REST Framework</strong></code> <code><strong>REST APIs</strong></code> <code><strong>Version Control</strong></code> <code><strong>Cloud Hosting</strong></code> <code><strong>Algorithms</strong></code> <code><strong>Data Structures</strong></code>
                 </p>
                 <details>
                     <summary><strong>Details</strong></summary>
                     <p><strong>Course Certificates Completed:</strong><p>
                     <ol>
-                        <li>Introduction to Front-End Development</li>
-                        <li>Programming with JavaScript</li>
+                        <li>Introduction to Back-End Development</li>
+                        <li>Programming in Python</li>
                         <li>Version Control</li>
-                        <li>HTML and CSS in depth</li>
-                        <li>React Basics</li>
-                        <li>Advanced React</li>
-                        <li>Principles of UX/UI Design</li>
-                        <li>Front-End Developer Capstone</li>
+                        <li>Introduction to Databases for Back-End Development</li>
+                        <li>Django Web Framework</li>
+                        <li>APIs</li>
+                        <li>The Full Stack</li>
+                        <li>Back-End Developer Capstone</li>
                         <li>Coding Interview Preparation</li>
                     </ol>
                     <p><strong>Certificate:</strong><p>
@@ -113,14 +112,6 @@
             </td>
     </tbody>
 </table>
-
-<!---
-- 👋 Hi, I’m @kumailalidev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
 
 <!---
 kumailalidev/kumailalidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
