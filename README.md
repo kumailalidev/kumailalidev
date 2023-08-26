@@ -22,29 +22,33 @@
                     <em>January 2019 - January 2023</em></br></br>
                     <strong>Relevant Coursework:</strong></br>
                     <!-- <ul>
-                        <li>AP305 Introduction to Computer and Programming Languages</li>
-                        <li>AP306 Data Structures and Algorithms</li>
-                        <li>AP404 Computational Methods</li>
-                        <li>AP501 Signals and Systems</li>
-                        <li>AP505 Digital Logic and Design (Digital Electronics)</li>
-                        <li>AP502 Microprocessors</li>
-                        <li>AP601 Microprocessor and Microcontroller Interfacing</li>
-                        <li>AP607 Data Communication and Networks</li>
-                        <li>AP602 Digital Signal Processing</li>
+                        <li>Introduction to Computer and Programming Languages</li>
+                        <li>Data Structures and Algorithms</li>
+                        <li>Computational Methods</li>
+                        <li>Signals and Systems</li>
+                        <li>Digital Logic and Design (Digital Electronics)</li>
+                        <li>Microprocessors</li>
+                        <li>Microprocessor and Microcontroller Interfacing</li>
+                        <li>Data Communication and Networks</li>
+                        <li>Digital Signal Processing</li>
                     </ul> -->
                     <table>
                         <tbody>
                             <tr>
-                                <td>AP305 Introduction to Computer and Programming Languages</td>
-                                <td>Data Structures and Algorithms</td>
+                                <td><li>Introduction to Computer and Programming Languages</li></td>
+                                <td><li>Data Structures and Algorithms</li></td>
                             </tr>
                             <tr>
-                                <td>AP305 Introduction to Computer and Programming Languages</td>
-                                <td>Data Structures and Algorithms</td>
+                                <td><li>Computational Methods</li></td>
+                                <td><li>Signals and Systems</li></td>
                             </tr>
                             <tr>
-                                <td>AP305 Introduction to Computer and Programming Languages</td>
-                                <td>Data Structures and Algorithms</td>
+                                <td><li>Digital Logic and Design (Digital Electronics)</li></td>
+                                <td><li>Microprocessors</li></td>
+                            </tr>
+                            <tr>
+                                <td><li>Data Communication and Networks</li></td>
+                                <td><li>Digital Signal Processing</li></td>
                             </tr>
                         </tbody>
                     </table>
