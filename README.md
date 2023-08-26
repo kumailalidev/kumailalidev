@@ -54,14 +54,15 @@
     <thead>
     <tbody>
         <tr>
-            <td align="center" valign="middle">
+            <td align="center" valign="top">
                 <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt=""/></a>
             </td>
             <td>
-                <a href="https://www.coursera.org/account/accomplishments/specialization/V88HPGTYPM7P"><strong>Meta Front-End Developer Certificate</strong> ↗️</a>
+                <a href="https://www.coursera.org/account/accomplishments/professional-cert/CMRPL76GR7VM"><strong>Meta Front-End Developer Certificate</strong> ↗️</a>
                 <p>Successfully completed the online, 9-course program Meta Front-End Developer Specialization Certificate.</p>
                 <details>
-                    <summary>Course Certificates Completed</summary>
+                    <summary><strong>Details</strong></summary>
+                    <p><strong>Course Certificates Completed:</strong><p>
                     <ol>
                         <li>Introduction to Front-End Development</li>
                         <li>Programming with JavaScript</li>
@@ -73,19 +74,22 @@
                         <li>Front-End Developer Capstone</li>
                         <li>Coding Interview Preparation</li>
                     </ol>
+                    <p><strong>Certificate:</strong><p>
+                    <p align="center"><img src="assets/images/Coursera-Meta Front-End-Developer.png" width="400px"/><p>
                 </details>
             </td>
             <td align="center" valign="top"><em>May 2023</em></td>
         <tr>
         <tr>
-            <td align="center" valign="middle">
+            <td align="center" valign="top">
                 <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt=""/></a>
             </td>
             <td>
-                <a href="https://www.coursera.org/account/accomplishments/specialization/V88HPGTYPM7P"><strong>Meta Front-End Developer Certificate</strong> ↗️</a>
-                <p>Successfully completed the online, 9-course program Meta Front-End Developer Specialization Certificate.</p>
+                <a href="https://www.coursera.org/account/accomplishments/professional-cert/V88HPGTYPM7P"><strong>Meta Back-End Developer Certificate</strong> ↗️</a>
+                <p>Successfully completed the online, 9-course program Meta Back-End Developer Specialization Certificate.</p>
                 <details>
-                    <summary>Course Certificates Completed</summary>
+                    <summary><strong>Details</strong></summary>
+                    <p><strong>Course Certificates Completed:</strong><p>
                     <ol>
                         <li>Introduction to Front-End Development</li>
                         <li>Programming with JavaScript</li>
@@ -97,9 +101,11 @@
                         <li>Front-End Developer Capstone</li>
                         <li>Coding Interview Preparation</li>
                     </ol>
+                    <p><strong>Certificate:</strong><p>
+                    <p align="center"><img src="assets/images/Coursera-Meta Back-End-Developer.png" width="400px"/><p>
                 </details>
             </td>
-            <td align="center" valign="top"><em>May 2023</em></td>
+            <td align="center" valign="top"><em>June 2023</em></td>
     </tbody>
 </table>
 
