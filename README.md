@@ -35,9 +35,9 @@
     </thead>
     <tbody>
         <tr>
-            <td align="center"><a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer" width="164px"/></a></td>
-            <td align="center"><a href="https://www.credly.com/badges/1f49414b-6515-4fc0-bbd2-b5d02df1f883/public_url"><img src="assets/images/meta-back-end-developer-certificate.png" alt="Meta Back-End Developer" width="164px"/></a></td>
-            <td align="center"><a href="https://www.credly.com/badges/fe8da2c2-6634-473f-b4cc-bd81293f7384/public_url"><img src="assets/images/meta-full-stack-engineer-certificate.png" alt="Meta Full-Stack Software Engineer" width="164px"/></a></td>
+            <td align="center"><a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer" width="148"/></a></td>
+            <td align="center"><a href="https://www.credly.com/badges/1f49414b-6515-4fc0-bbd2-b5d02df1f883/public_url"><img src="assets/images/meta-back-end-developer-certificate.png" alt="Meta Back-End Developer" width="148"/></a></td>
+            <td align="center"><a href="https://www.credly.com/badges/fe8da2c2-6634-473f-b4cc-bd81293f7384/public_url"><img src="assets/images/meta-full-stack-engineer-certificate.png" alt="Meta Full-Stack Software Engineer" width="148"/></a></td>
         </tr>
     </tbody>
 </table>
@@ -47,54 +47,59 @@
 <table>
     <thead>
         <tr>
-            <th>Issuing Organization</th>
-            <th>Course Description</th>
+            <th width="58px">Issuing Organization</th>
+            <th>Certificate Description</th>
             <th>Completion Date</th>
         <tr>
     <thead>
     <tbody>
         <tr>
-            <td align="center" valign="top">
-                <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="" width="58px"/></a>
+            <td align="center" valign="middle">
+                <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt=""/></a>
             </td>
             <td>
-                <strong>Meta Front-End Developer Certificate</strong> <a href="https://www.coursera.org/account/accomplishments/specialization/V88HPGTYPM7P">↗️</a>
-                <p>Successfully completed the online, 9-course program Meta Front-End Developer Specialization Certificate. <br/> Course Certificates Completed:</p>
-                <ol>
-                    <li>Introduction to Front-End Development</li>
-                    <li>Programming with JavaScript</li>
-                    <li>Version Control</li>
-                    <li>HTML and CSS in depth</li>
-                    <li>React Basics</li>
-                    <li>Advanced React</li>
-                    <li>Principles of UX/UI Design</li>
-                    <li>Front-End Developer Capstone</li>
-                    <li>Coding Interview Preparation</li>
-                </ol>
+                <a href="https://www.coursera.org/account/accomplishments/specialization/V88HPGTYPM7P"><strong>Meta Front-End Developer Certificate</strong> ↗️</a>
+                <p>Successfully completed the online, 9-course program Meta Front-End Developer Specialization Certificate.</p>
+                <details>
+                    <summary>Course Certificates Completed</summary>
+                    <ol>
+                        <li>Introduction to Front-End Development</li>
+                        <li>Programming with JavaScript</li>
+                        <li>Version Control</li>
+                        <li>HTML and CSS in depth</li>
+                        <li>React Basics</li>
+                        <li>Advanced React</li>
+                        <li>Principles of UX/UI Design</li>
+                        <li>Front-End Developer Capstone</li>
+                        <li>Coding Interview Preparation</li>
+                    </ol>
+                </details>
             </td>
             <td align="center" valign="top"><em>May 2023</em></td>
         <tr>
         <tr>
-            <td align="center" valign="top">
-                <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="" width="58px"/></a>
+            <td align="center" valign="middle">
+                <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt=""/></a>
             </td>
             <td>
-                <strong>Meta Front-End Developer Certificate</strong> <a href="https://www.coursera.org/account/accomplishments/specialization/V88HPGTYPM7P">↗️</a>
-                <p>Successfully completed the online, 9-course program Meta Front-End Developer Specialization Certificate. <br/> Course Certificates Completed:</p>
-                <ol>
-                    <li>Introduction to Front-End Development</li>
-                    <li>Programming with JavaScript</li>
-                    <li>Version Control</li>
-                    <li>HTML and CSS in depth</li>
-                    <li>React Basics</li>
-                    <li>Advanced React</li>
-                    <li>Principles of UX/UI Design</li>
-                    <li>Front-End Developer Capstone</li>
-                    <li>Coding Interview Preparation</li>
-                </ol>
+                <a href="https://www.coursera.org/account/accomplishments/specialization/V88HPGTYPM7P"><strong>Meta Front-End Developer Certificate</strong> ↗️</a>
+                <p>Successfully completed the online, 9-course program Meta Front-End Developer Specialization Certificate.</p>
+                <details>
+                    <summary>Course Certificates Completed</summary>
+                    <ol>
+                        <li>Introduction to Front-End Development</li>
+                        <li>Programming with JavaScript</li>
+                        <li>Version Control</li>
+                        <li>HTML and CSS in depth</li>
+                        <li>React Basics</li>
+                        <li>Advanced React</li>
+                        <li>Principles of UX/UI Design</li>
+                        <li>Front-End Developer Capstone</li>
+                        <li>Coding Interview Preparation</li>
+                    </ol>
+                </details>
             </td>
             <td align="center" valign="top"><em>May 2023</em></td>
-        <tr>
     </tbody>
 </table>
 
