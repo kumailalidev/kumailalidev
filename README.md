@@ -7,29 +7,30 @@
 <h2><strong>🎓 Education</strong></h2>
 <table>
     <thead>
-        <tr>
+        <!-- <tr>
             <th width="60px"></th>
             <th width="600px"></th>
-        </tr>
+        </tr> -->
     </thead>
     <tbody>
         <tr>
-            <td align="center" valign="top"><img src="assets/images/University-of-Karachi-Logo-300px.png"/></td>
+            <td align="center" valign="top"><img src="assets/images/University-of-Karachi-Logo-300px.png" width="58px"/></td>
             <td>
-                <p>
+                <p align="justify">
                     <strong>Bachelor of Science (BS), Electronics</strong><br>
                     <strong>University of Karachi, Pakistan</strong></br>
                     <em>January 2019 - January 2023</em></br></br>
                     <strong>Relevant Coursework:</strong></br>
                     <ul>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
+                        <li>AP305 Introduction to Computer and Programming Languages</li>
+                        <li>AP306 Data Structures and Algorithms</li>
+                        <li>AP404 Computational Methods</li>
+                        <li>AP501 Signals and Systems</li>
+                        <li>AP505 Digital Logic and Design (Digital Electronics)</li>
+                        <li>AP502 Microprocessors</li>
+                        <li>AP601 Microprocessor and Microcontroller Interfacing</li>
+                        <li>AP607 Data Communication and Networks</li>
+                        <li>AP602 Digital Signal Processing</li>
                     </ul>
                 </p>
             </td>
