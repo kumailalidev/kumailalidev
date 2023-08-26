@@ -15,7 +15,7 @@
     <tbody>
         <tr>
             <td align="center" valign="top"><img src="assets/images/University-of-Karachi-Logo-300px.png" width="58px"/></td>
-            <td>
+            <td width="90%">
                 <p align="justify">
                     <strong>Bachelor of Science (BS), Electronics</strong><br>
                     <strong>University of Karachi, Pakistan</strong></br>
