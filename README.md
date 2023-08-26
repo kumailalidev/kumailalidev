@@ -16,12 +16,12 @@
         <tr>
             <td align="center" valign="top"><img src="assets/images/University-of-Karachi-Logo-300px.png" width="58px"/></td>
             <td>
-                <p align="justify">
+                <p>
                     <strong>Bachelor of Science (BS), Electronics</strong><br>
                     <strong>University of Karachi, Pakistan</strong></br>
                     <em>January 2019 - January 2023</em></br></br>
                     <strong>Relevant Coursework:</strong></br>
-                    <ul>
+                    <!-- <ul>
                         <li>AP305 Introduction to Computer and Programming Languages</li>
                         <li>AP306 Data Structures and Algorithms</li>
                         <li>AP404 Computational Methods</li>
@@ -31,7 +31,26 @@
                         <li>AP601 Microprocessor and Microcontroller Interfacing</li>
                         <li>AP607 Data Communication and Networks</li>
                         <li>AP602 Digital Signal Processing</li>
-                    </ul>
+                    </ul> -->
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>AP305 Introduction to Computer and Programming Languages</td>
+                                <td>Data Structures and Algorithms</td>
+                                <td>Computational Methods</td>
+                            </tr>
+                            <tr>
+                                <td>AP305 Introduction to Computer and Programming Languages</td>
+                                <td>Data Structures and Algorithms</td>
+                                <td>Computational Methods</td>
+                            </tr>
+                            <tr>
+                                <td>AP305 Introduction to Computer and Programming Languages</td>
+                                <td>Data Structures and Algorithms</td>
+                                <td>Computational Methods</td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </p>
             </td>
         </tr>
