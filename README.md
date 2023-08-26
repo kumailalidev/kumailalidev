@@ -9,7 +9,7 @@
     <thead>
         <tr>
             <th width="60px"></th>
-            <th width="900px"></th>
+            <th width="600px"></th>
         </tr>
     </thead>
     <tbody>
