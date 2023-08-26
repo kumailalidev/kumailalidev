@@ -6,17 +6,17 @@
 
 <h2><strong>🎓 Education</strong></h2>
 <table>
-    <thead>
+    <!-- <thead>
         <tr>
-            <th width="60px"></th>
-            <th width="786px"></th>
+            <th></th>
+            <th></th>
         </tr>
-    </thead>
+    </thead> -->
     <tbody>
         <tr>
             <td align="center" valign="top"><img src="assets/images/University-of-Karachi-Logo-300px.png" width="60px"/></td>
             <td>
-                <p align="justify">
+                <p>
                     <strong>Bachelor of Science (BS), Electronics</strong><br>
                     <strong>University of Karachi, Pakistan</strong></br>
                     <em>January 2019 - January 2023</em>
@@ -55,9 +55,9 @@
     </thead>
     <tbody>
         <tr>
-            <td align="center"><a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer" width="148"/></a></td>
-            <td align="center"><a href="https://www.credly.com/badges/1f49414b-6515-4fc0-bbd2-b5d02df1f883/public_url"><img src="assets/images/meta-back-end-developer-certificate.png" alt="Meta Back-End Developer" width="148"/></a></td>
-            <td align="center"><a href="https://www.credly.com/badges/fe8da2c2-6634-473f-b4cc-bd81293f7384/public_url"><img src="assets/images/meta-full-stack-engineer-certificate.png" alt="Meta Full-Stack Software Engineer" width="148"/></a></td>
+            <td align="center"><a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer" width="118"/></a></td>
+            <td align="center"><a href="https://www.credly.com/badges/1f49414b-6515-4fc0-bbd2-b5d02df1f883/public_url"><img src="assets/images/meta-back-end-developer-certificate.png" alt="Meta Back-End Developer" width="118"/></a></td>
+            <td align="center"><a href="https://www.credly.com/badges/fe8da2c2-6634-473f-b4cc-bd81293f7384/public_url"><img src="assets/images/meta-full-stack-engineer-certificate.png" alt="Meta Full-Stack Software Engineer" width="118"/></a></td>
         </tr>
     </tbody>
 </table>
