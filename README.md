@@ -54,12 +54,12 @@
     <thead>
     <tbody>
         <tr>
-            <td>
-                <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="" width="58px"/></a>
+            <td valign="top">
+                <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt=""/></a>
             </td>
             <td>
-                <strong>Meta Front-End Developer Certificate</strong>
-                <p>Successfully completed the online, 9-course program <strong>Meta Front-End Developer Specialization Certificate</strong>.</p>
+                <h3>Meta Front-End Developer Certificate</h3>
+                <p>Successfully completed the online, 9-course program Meta Front-End Developer Specialization Certificate.</p>
                 <p>Course Certificates Completed:</p>
                 <ol>
                     <li>Introduction to Front-End Development</li>
@@ -73,7 +73,7 @@
                     <li>Coding Interview Preparation</li>
                 </ol>
             </td>
-            <td><em>May 2023</em></td>
+            <td valign="top"><em>May 2023</em></td>
         <tr>
     </tbody>
 </table>
