@@ -37,17 +37,14 @@
                             <tr>
                                 <td>AP305 Introduction to Computer and Programming Languages</td>
                                 <td>Data Structures and Algorithms</td>
-                                <td>Computational Methods</td>
                             </tr>
                             <tr>
                                 <td>AP305 Introduction to Computer and Programming Languages</td>
                                 <td>Data Structures and Algorithms</td>
-                                <td>Computational Methods</td>
                             </tr>
                             <tr>
                                 <td>AP305 Introduction to Computer and Programming Languages</td>
                                 <td>Data Structures and Algorithms</td>
-                                <td>Computational Methods</td>
                             </tr>
                         </tbody>
                     </table>
