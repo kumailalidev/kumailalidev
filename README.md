@@ -7,11 +7,15 @@
 <h2><strong>🎓 Education</strong></h2>
 <table>
     <thead>
+        <tr>
+            <th></th>
+            <th width="90%"></th>
+        </tr>
     </thead>
     <tbody>
         <tr>
             <td align="center" valign="top"><img src="assets/images/University-of-Karachi-Logo-300px.png" width="58px"/></td>
-            <td width="90%">
+            <td>
                 <p>
                     <strong>Bachelor of Science (BS), Electronics</strong><br>
                     <strong>University of Karachi, Pakistan</strong></br>
