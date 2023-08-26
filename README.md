@@ -47,20 +47,19 @@
 <table>
     <thead>
         <tr>
-            <th width="58px">Issuing Organization</th>
+            <th>Issuing Organization</th>
             <th>Course Description</th>
             <th>Completion Date</th>
         <tr>
     <thead>
     <tbody>
         <tr>
-            <td valign="top">
-                <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt=""/></a>
+            <td align="center" valign="top">
+                <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="" width="58px"/></a>
             </td>
             <td>
-                <h3>Meta Front-End Developer Certificate</h3>
-                <p>Successfully completed the online, 9-course program Meta Front-End Developer Specialization Certificate.</p>
-                <p>Course Certificates Completed:</p>
+                <strong>Meta Front-End Developer Certificate</strong> <a href="https://www.coursera.org/account/accomplishments/specialization/V88HPGTYPM7P">↗️</a>
+                <p>Successfully completed the online, 9-course program Meta Front-End Developer Specialization Certificate. <br/> Course Certificates Completed:</p>
                 <ol>
                     <li>Introduction to Front-End Development</li>
                     <li>Programming with JavaScript</li>
@@ -73,7 +72,28 @@
                     <li>Coding Interview Preparation</li>
                 </ol>
             </td>
-            <td valign="top"><em>May 2023</em></td>
+            <td align="center" valign="top"><em>May 2023</em></td>
+        <tr>
+        <tr>
+            <td align="center" valign="top">
+                <a href="https://www.coursera.com"><img src="assets/images/Coursera-Logo-600x600.png" alt="" width="58px"/></a>
+            </td>
+            <td>
+                <strong>Meta Front-End Developer Certificate</strong> <a href="https://www.coursera.org/account/accomplishments/specialization/V88HPGTYPM7P">↗️</a>
+                <p>Successfully completed the online, 9-course program Meta Front-End Developer Specialization Certificate. <br/> Course Certificates Completed:</p>
+                <ol>
+                    <li>Introduction to Front-End Development</li>
+                    <li>Programming with JavaScript</li>
+                    <li>Version Control</li>
+                    <li>HTML and CSS in depth</li>
+                    <li>React Basics</li>
+                    <li>Advanced React</li>
+                    <li>Principles of UX/UI Design</li>
+                    <li>Front-End Developer Capstone</li>
+                    <li>Coding Interview Preparation</li>
+                </ol>
+            </td>
+            <td align="center" valign="top"><em>May 2023</em></td>
         <tr>
     </tbody>
 </table>
