@@ -5,7 +5,28 @@
 <p align="justify">Full-Stack software engineer with experience in developing web applications. I have worked on various projects for clients as well as created personal projects, ranging from full e-commerce platforms to RESTful APIs. I am proficient in <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React JS</strong>, <strong>Python</strong>, <strong>Django</strong>, <strong>DRF (Django REST Framework)</strong>, <strong>SQL</strong> and other technologies. I am very enthusiastic about creating user-friendly and scalable solutions that meet the needs and expectations of my clients. I am always eager to learn new skills and explore new challenges in the field of software engineering.</p>
 
 <h2><strong>🎓 Education</strong></h2>
-<table>
+
+### **Bachelor of Science (BS), Electronics**
+
+**University of Karachi, Pakistan**  
+_January 2019 - January 2023_
+
+<Details>
+    <summary><strong>Relevant Coursework</strong></br></summary>
+    <ol>
+        <li>Introduction to Computer and Programming Languages</li>
+        <li>Data Structures and Algorithms</li>
+        <li>Computational Methods</li>
+        <li>Signals and Systems</li>
+        <li>Digital Logic and Design (Digital Electronics)</li>
+        <li>Microprocessors</li>
+        <li>Microprocessor and Microcontroller Interfacing</li>
+        <li>Data Communication and Networks</li>
+        <li>Digital Signal Processing</li>
+    </ol>
+</Details>
+
+<!-- <table>
     <thead>
         <tr>
             <th width="58px"></th>
@@ -38,7 +59,7 @@
             </td>
         </tr>
     </tbody>
-<table>
+</table> -->
 
 <h2><strong>🧑‍💻 Tools and Technologies</strong></h2>
 
