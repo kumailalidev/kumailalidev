@@ -1,8 +1,10 @@
-<p align="right"><strong><a href=""><code>⬇️ Download Resume</code></strong></a></p>
-
 <img src="assets/svg/hello.svg" style="width: 100%;" alt="Click to see the source">
 
-<p align="justify">Full-Stack software engineer with experience in developing web applications. I have worked on various projects for clients as well as created personal projects, ranging from full e-commerce platforms to RESTful APIs. I am proficient in <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React JS</strong>, <strong>Python</strong>, <strong>Django</strong>, <strong>DRF (Django REST Framework)</strong>, <strong>SQL</strong> and other technologies. I am very enthusiastic about creating user-friendly and scalable solutions that meet the needs and expectations of my clients. I am always eager to learn new skills and explore new challenges in the field of software engineering.</p>
+<p align="justify">
+    Full-Stack software engineer with experience in developing web applications. I have worked on various projects for clients as well as created personal projects, ranging from full e-commerce platforms to RESTful APIs. I am proficient in <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React JS</strong>, <strong>Python</strong>, <strong>Django</strong>, <strong>DRF (Django REST Framework)</strong>, <strong>SQL</strong> and other technologies. I am very enthusiastic about creating user-friendly and scalable solutions that meet the needs and expectations of my clients. I am always eager to learn new skills and explore new challenges in the field of software engineering.<br/>
+    <code>⬇️ Download Resume</code></strong></a>
+    <hr>
+</p>
 
 <h2><strong>🎓 Education</strong></h2>
 <table>
