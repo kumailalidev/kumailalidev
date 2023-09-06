@@ -1,6 +1,7 @@
-<img src="assets/svg/hello.svg" style="width: 100%;" alt="Click to see the source">
-
+<!-- <img src="assets/svg/hello.svg" style="width: 100%;" alt="Click to see the source"> -->
+<h1 align="center">Hello, I'm Kumail Ali Shaikh 👋</h1>
 <p align="justify">
+    <h2><strong>🗒️ About Me</strong></h2>
     Full-Stack software engineer with experience in developing web applications. I have worked on various projects for clients as well as created personal projects, ranging from full e-commerce platforms to RESTful APIs. I am proficient in <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React JS</strong>, <strong>Python</strong>, <strong>Django</strong>, <strong>DRF (Django REST Framework)</strong>, <strong>SQL</strong> and other technologies. I am very enthusiastic about creating user-friendly and scalable solutions that meet the needs and expectations of my clients. I am always eager to learn new skills and explore new challenges in the field of software engineering.
     <h3><a href=""><code>⬇️ Download Resume</code></a></h3>
     <hr>
@@ -10,10 +11,10 @@
 <table>
     <thead>
         <tr>
-            <td align="center" valign="top" width="100px">
+            <th align="center" valign="top" width="100px">
                 <img src="assets/images/University-of-Karachi-Logo-300px.png" width="60px"/>
-            </td>
-            <td width="800px">
+            </th>
+            <th width="800px">
                 <p>
                     <strong>Bachelor of Science (BS), Electronics</strong><br>
                     <strong>University of Karachi, Pakistan</strong></br>
@@ -33,7 +34,7 @@
                         </ol>
                     </Details>
                 </p>
-            </td>
+            </th>
         </tr>
     </thead>
     <!-- <tbody>
