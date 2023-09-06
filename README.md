@@ -37,37 +37,29 @@
             </th>
         </tr>
     </thead>
-    <!-- <tbody>
-        <tr>
-            <td align="center" valign="top"><img src="assets/images/University-of-Karachi-Logo-300px.png" width="60px"/></td>
-            <td>
-                <p>
-                    <strong>Bachelor of Science (BS), Electronics</strong><br>
-                    <strong>University of Karachi, Pakistan</strong></br>
-                    <em>January 2019 - January 2023</em>
-                    <Details>
-                        <summary><strong>Relevant Coursework</strong></br></summary>
-                        <ol>
-                            <li>Introduction to Computer and Programming Languages</li>
-                            <li>Data Structures and Algorithms</li>
-                            <li>Computational Methods</li>
-                            <li>Signals and Systems</li>
-                            <li>Digital Logic and Design (Digital Electronics)</li>
-                            <li>Microprocessors</li>
-                            <li>Microprocessor and Microcontroller Interfacing</li>
-                            <li>Data Communication and Networks</li>
-                            <li>Digital Signal Processing</li>
-                        </ol>
-                    </Details>
-                </p>
-            </td>
-        </tr>
-    </tbody> -->
 </table>
 
 <h2><strong>🧑‍💻 Tools and Technologies</strong></h2>
 
-**`HTML5` `CSS3` `JavaScript` `Python` `Java (Core Language)` `React` `Django Web Framework` `Django REST Framework` `RESTful APIs` `Pytest` `Databases` `SQL` `PostgreSQL` `Docker`**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 <h2><strong>🏅 Badges</strong></h2>
 <table>
