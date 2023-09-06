@@ -46,6 +46,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -57,27 +58,9 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-<h2><strong>🏅 Badges</strong></h2>
-<table>
-    <thead>
-        <tr>
-            <th width="500px">Meta Front-End Developer</th>
-            <th width="500px">Meta Back-End Developer</th>
-            <th width="500px">Meta Full-Stack Software Engineer</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="center"><a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer" width="118"/></a></td>
-            <td align="center"><a href="https://www.credly.com/badges/1f49414b-6515-4fc0-bbd2-b5d02df1f883/public_url"><img src="assets/images/meta-back-end-developer-certificate.png" alt="Meta Back-End Developer" width="118"/></a></td>
-            <td align="center"><a href="https://www.credly.com/badges/fe8da2c2-6634-473f-b4cc-bd81293f7384/public_url"><img src="assets/images/meta-full-stack-engineer-certificate.png" alt="Meta Full-Stack Software Engineer" width="118"/></a></td>
-        </tr>
-    </tbody>
-</table>
 
 <h2><strong>📜 Certifications</strong></h2>
 <table>
@@ -150,6 +133,23 @@
     </tbody>
 </table>
 
+<h2><strong>🏅 Badges</strong></h2>
+<table>
+    <thead>
+        <tr>
+            <th width="500px">Meta Front-End Developer</th>
+            <th width="500px">Meta Back-End Developer</th>
+            <th width="500px">Meta Full-Stack Software Engineer</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center"><a href="https://www.credly.com/badges/47e797e0-1c7b-49a7-9139-28195238e6b4/public_url"><img src="assets/images/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer" width="118"/></a></td>
+            <td align="center"><a href="https://www.credly.com/badges/1f49414b-6515-4fc0-bbd2-b5d02df1f883/public_url"><img src="assets/images/meta-back-end-developer-certificate.png" alt="Meta Back-End Developer" width="118"/></a></td>
+            <td align="center"><a href="https://www.credly.com/badges/fe8da2c2-6634-473f-b4cc-bd81293f7384/public_url"><img src="assets/images/meta-full-stack-engineer-certificate.png" alt="Meta Full-Stack Software Engineer" width="118"/></a></td>
+        </tr>
+    </tbody>
+</table>
 <!---
 kumailalidev/kumailalidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
