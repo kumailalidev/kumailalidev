@@ -8,13 +8,35 @@
 
 <h2><strong>🎓 Education</strong></h2>
 <table>
-    <!-- <thead>
+    <thead>
         <tr>
-            <th></th>
-            <th></th>
+            <td align="center" valign="top" width="100px">
+                <img src="assets/images/University-of-Karachi-Logo-300px.png" width="60px"/>
+            </td>
+            <td width="600px">
+                <p>
+                    <strong>Bachelor of Science (BS), Electronics</strong><br>
+                    <strong>University of Karachi, Pakistan</strong></br>
+                    <em>January 2019 - January 2023</em>
+                    <Details>
+                        <summary><strong>Relevant Coursework</strong></br></summary>
+                        <ol>
+                            <li>Introduction to Computer and Programming Languages</li>
+                            <li>Data Structures and Algorithms</li>
+                            <li>Computational Methods</li>
+                            <li>Signals and Systems</li>
+                            <li>Digital Logic and Design (Digital Electronics)</li>
+                            <li>Microprocessors</li>
+                            <li>Microprocessor and Microcontroller Interfacing</li>
+                            <li>Data Communication and Networks</li>
+                            <li>Digital Signal Processing</li>
+                        </ol>
+                    </Details>
+                </p>
+            </td>
         </tr>
-    </thead> -->
-    <tbody>
+    </thead>
+    <!-- <tbody>
         <tr>
             <td align="center" valign="top"><img src="assets/images/University-of-Karachi-Logo-300px.png" width="60px"/></td>
             <td>
@@ -39,7 +61,7 @@
                 </p>
             </td>
         </tr>
-    </tbody>
+    </tbody> -->
 </table>
 
 <h2><strong>🧑‍💻 Tools and Technologies</strong></h2>
