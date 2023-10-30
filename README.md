@@ -40,27 +40,6 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-<h2>💻 Full Stack Projects</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th width="300px">Image</th>
-      <th width="780px">Project Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Little lemon restaurant -->
-    <tr>
-      <td align="center" valign="top"><img src="assets/images/littlelemonrestaurantthumbnail.png" width=""/></td>
-      <td>
-        <a href=""><strong>Little Lemon Restaurant Web App</strong> ↗️</a>
-        <p>Project description goes here...</p>
-      </td>
-    </tr>
-  <tbody>
-</table>
-
 <h2><strong>🎓 Education</strong></h2>
 
 <table>
@@ -265,4 +244,37 @@
       </td>
     </tr>
   </tbody>
+</table>
+
+<h2>💻 Full Stack Projects (Updated Soon)</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th width="300px">Image</th>
+      <th width="780px">Project Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Project 01 -->
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <!-- Project 02 -->
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <!-- Project 03 -->
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <!-- Project 04 -->
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  <tbody>
 </table>
