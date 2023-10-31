@@ -246,7 +246,7 @@
   </tbody>
 </table>
 
-<h2>💻 Full Stack Projects (Updated Soon)</h2>
+<!-- <h2>💻 Full Stack Projects</h2>
 
 <table>
   <thead>
@@ -256,25 +256,21 @@
     </tr>
   </thead>
   <tbody>
-    <!-- Project 01 -->
     <tr>
       <td></td>
       <td></td>
     </tr>
-    <!-- Project 02 -->
     <tr>
       <td></td>
       <td></td>
     </tr>
-    <!-- Project 03 -->
     <tr>
       <td></td>
       <td></td>
     </tr>
-    <!-- Project 04 -->
     <tr>
       <td></td>
       <td></td>
     </tr>
   <tbody>
-</table>
+</table> -->
