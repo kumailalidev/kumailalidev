@@ -22,20 +22,20 @@
 <table>
   <thead>
     <tr>
-      <th width="200px">Programming Languages</th>
-      <th width="780px"><code>Python</code>, <code>JavaScript</code>, <code>Java (Core Language)</code>, <code>C</code></th>
+      <th align="left" width="250px">Programming Languages</th>
+      <th align="left" width="730px"><code>Python</code>, <code>JavaScript</code>, <code>Java (Core Language)</code>, <code>C Programming</code></th>
     </tr>
     <tr>
-      <th width="200px">Frameworks and Libraries</th>
-      <th width="780px"><code>Django</code>, <code>Django REST Framework</code>, <code>React.js</code></th>
+      <th align="left" width="250px">Frameworks and Libraries</th>
+      <th align="left" width="730px"><code>Django</code>, <code>Django REST Framework</code>, <code>React.js</code></th>
     </tr>
     <tr>
-      <th width="200px">Databases and Web Servers</th>
-      <th width="780px"><code>SQL</code>, <code>PostgresSQL</code>, <code>Redis</code>, <code>NGINX</code></th>
+      <th align="left" width="250px">Databases and Web Servers</th>
+      <th align="left" width="730px"><code>SQL</code>, <code>PostgresSQL</code>, <code>Redis</code>, <code>NGINX</code></th>
     </tr>
     <tr>
-      <th width="200px">Tools and Platforms</th>
-      <th width="780px"><code>Git</code>, <code>Postman</code>, <code>Insomnia</code>, <code>Swagger</code>, <code>Docker</code>, <code>Amazon Web Services (AWS)</code>, <code>Linux</code></th>
+      <th align="left" width="250px">Tools and Platforms</th>
+      <th align="left" width="730px"><code>Git</code>, <code>Postman</code>, <code>Insomnia</code>, <code>Swagger</code>, <code>Docker</code>, <code>Amazon Web Services (AWS)</code>, <code>Linux</code></th>
     </tr>
   </thead>
   
